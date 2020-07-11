@@ -5,5 +5,4 @@
 * Next, I accepted pretty-print, which could've been also done with the "{}" button at the bottom.
 * Then, throughout the code, I tried to find code that was a route-mapping section containing the word "score" within it.
 * Finally, I navigated to "https://juiceshopper.baycyber.net/#/score-board" to solve the challenge. 
-* Note: After you completed this, you should be able to go back to the Juice Shop Menu and find an option that says "Scoreboard". 
-      If you click on it, then you'll know you're in the right place.
+* Note: After you completed this, you should be able to go back to the Juice Shop Menu and find an option that says "Scoreboard". If you click on it, then you'll know you're in the right place.
